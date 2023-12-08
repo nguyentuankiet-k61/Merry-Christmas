@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc mọi người có một mùa giáng sinh an lành và ấm áp bên gia đình, người thân và bạn bè!!!",
+                        "Một mùa giáng sinh lại tới. Chúc bạn và những người thân yêu cso thật nhiều niềm vui, an lành và may mắn trong năm mới sắp tới!!!",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
